@@ -131,7 +131,7 @@ main .container .main-left .main-left-prt2 .second{
 main .container .main-right{
     width: 50%;
     height: 100%;
-    background-image: url("/images/Image.png");
+    background-image: url("../images/Image.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
