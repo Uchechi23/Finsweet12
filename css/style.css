@@ -740,7 +740,6 @@ input{
 #get-in-touch .get-in-left .first-car{
     width: 50%;
     height: 100%;
-    /* background-color: red; */
     background-image: url(../images/car.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -778,7 +777,6 @@ input{
 #get-in-touch .get-in-left .second-car{
     width: 50%;
     height: 100%;
-    background-color: yellowgreen;
     background-image: url(../images/car2.png);
     background-position: center;
     background-repeat: no-repeat;
